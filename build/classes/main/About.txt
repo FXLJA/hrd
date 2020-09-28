@@ -1,0 +1,41 @@
+MVC Application Project: APLIKASI SIMULASI HRD
+
+Mata Kuliah: Pemrograman Berorientasi Objek
+Dosen Penguji: Ester Lumba, S.Si., M.Kom.
+
+Anggota Kelompok: Andreas Dwi Oktamelenio	32180035
+		  Jason Alexander		32180082 - Ketua
+		  Rendy Setiawan		32180104
+
+Jumlah class: 43 class
+Jumlah file non-class: 5
+Jumlah external library: 3
+
+Pembagian class: 8x Controller
+		 8x DAO (Data Access Object)
+		 8x Interface
+		 8x Model
+		 8x View
+		 1x Koneksi MySQL
+		 1x Enumerasi CRUD
+		 1x Main Menu
+
+File non-class: File .txt  - Readme
+		File .txt  - About
+		File .jpg  - Background Main Menu
+		File .crd  - UML Flowchart (Terbuat otomatis dari reverse-engineer seluruh class dalam project)
+		File .docx - Laporan Dokumentasi Program
+		File .sql  - File database
+
+External library: MySQL JDBC Connector 8.0.15
+		  JCalendar 1.4 Plugin
+		  EasyUML Diagram Generator
+
+Dibuat dengan: NetBeans Java IDE 10.0
+Versi JDK: 11
+Aplikasi pendukung: XAMPP Database Management Simulator
+		    MariaDB MySQL Relational Database Simulation System
+#################################################################################################################
+April - Mei 2019
+Program Studi Teknik Informatika
+Universitas Bunda Mulia
