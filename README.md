@@ -34,7 +34,7 @@ dari 1 tabel dalam Main Menu secara bersamaan.
 
 
 2. Relasi Tabel <br>
-###############
+############### <br>
 Dari 8 tabel yang dibuat, tabel-tabel tersebut terbagi menjadi dua kelompok yang didefinisikan 
 sendiri oleh pembuat program, yaitu kelompok SOURCES dan kelompok IMPLEMENTS. 
 
@@ -115,7 +115,7 @@ d. Tabel Gaji
 
 
 3. Informasi Pemakaian <br>
-######################
+###################### <br>
 Ketika menjalankan program, user akan diminta untuk melakukan login terlebih dahulu. Pada state 
 ini, semua pilihan pada menu bar terkunci kecuali opsi Help, yang memungkinkan user membuka file 
 teks Readme (file ini) dan file About (berisi informasi struktural dan fisik program).
