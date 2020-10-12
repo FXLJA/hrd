@@ -1,7 +1,7 @@
-Aplikasi Simulasi HRD - User Manual
+Aplikasi Simulasi HRD - User Manual <br>
 ###################################
 
-Daftar isi
+Daftar isi <br>
 ##########
 1. Deskripsi Program
 2. Relasi Tabel
@@ -9,7 +9,7 @@ Daftar isi
 
 ----------------------------------------------------------------------------------------------------
 
-1. Deskripsi Program
+1. Deskripsi Program <br>
 ####################
 
 Aplikasi ini dibuat dengan menggunakan bahasa pemrograman Java, memakai IDE NetBeans versi 10.0,
@@ -33,7 +33,7 @@ independen dari tabel-tabel yang terpanggil. Dengan cara ini, maka user bisa men
 dari 1 tabel dalam Main Menu secara bersamaan.
 
 
-2. Relasi Tabel
+2. Relasi Tabel <br>
 ###############
 Dari 8 tabel yang dibuat, tabel-tabel tersebut terbagi menjadi dua kelompok yang didefinisikan 
 sendiri oleh pembuat program, yaitu kelompok SOURCES dan kelompok IMPLEMENTS. 
@@ -114,7 +114,7 @@ d. Tabel Gaji
    Tabel ini mengimplementasikan tabel Divisi dan Tunjangan.
 
 
-3. Informasi Pemakaian
+3. Informasi Pemakaian <br>
 ######################
 Ketika menjalankan program, user akan diminta untuk melakukan login terlebih dahulu. Pada state 
 ini, semua pilihan pada menu bar terkunci kecuali opsi Help, yang memungkinkan user membuka file 
