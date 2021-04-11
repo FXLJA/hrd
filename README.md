@@ -45,7 +45,7 @@ Kelompok IMPLEMENTS adalah tabel-tabel yang menerapkan gabungan informasi dari t
 berdasarkan syarat yang dibuat oleh pembuat program melalui file source code.
 
 Tabel-tabel tersebut adalah sebagai berikut:
-Tabel SOURCES
+Tabel SOURCES <br>
 a. Tabel Jabatan <br>
    Tabel ini menyediakan jenis-jenis jabatan yang tersedia untuk dipilih oleh user.
    Nilai yang ditampung oleh tabel berupa kode jabatan dan nama jabatan.
@@ -65,15 +65,15 @@ d. Tabel Pengangkatan <br>
    Tabel ini menyimpan data berupa kode karyawan, nama divisi, tanggal pengangkatan, dan nomor SK.
    
 
-Tabel IMPLEMENTS
-a.  Tabel Pegawai
+Tabel IMPLEMENTS <br>
+a.  Tabel Pegawai <br>
     Tabel ini menampung data berupa informasi dasar pegawai. Menyimpan nama, kode, tanggal lahir, 
     jenis kelamin, status pernikahan, jabatan, dan tanggal masuk pegawai.
 
     Tabel ini mengimplementasikan tabel Jabatan, tapi tabel ini sendiri merupakan sebuah source 
     untuk beberapa tabel lainnya.
 
-b. Tabel Detail
+b. Tabel Detail <br>
    Tabel ini menampung data berupa informasi pernikahan pegawai. Menyimpan nama istri / suami dan 
    jumlah anak yang dimiliki pegawai. 
 
@@ -83,7 +83,7 @@ b. Tabel Detail
 
    Tabel ini mengimplementasikan tabel Pegawai.
 
-c. Tabel Posisi
+c. Tabel Posisi <br>
    Tabel ini menyimpan data berupa informasi periode jabatan pegawai. Menyimpan tanggal mulai, 
    tanggal selesai, dan jumlah periode seorang pegawai dalam menjabat.
 
@@ -97,7 +97,7 @@ c. Tabel Posisi
 
    Tabel ini mengimplementasikan tabel Pegawai dan Jabatan.
 
-d. Tabel Gaji
+d. Tabel Gaji <br>
    Tabel ini menyimpan data berupa informasi gaji total pegawai. Gaji total merupakan gabungan 
    dari gaji pokok sejumlah 2.500.000 ditambah tunjangan yang dipilih oleh user. Tabel ini 
    menyimpan kode karyawan, divisi karyawan, tunjangan yang diambil, tanggal pengambilan gaji 
