@@ -46,19 +46,19 @@ berdasarkan syarat yang dibuat oleh pembuat program melalui file source code.
 
 Tabel-tabel tersebut adalah sebagai berikut:
 Tabel SOURCES
-a. Tabel Jabatan
+a. Tabel Jabatan <br>
    Tabel ini menyediakan jenis-jenis jabatan yang tersedia untuk dipilih oleh user.
    Nilai yang ditampung oleh tabel berupa kode jabatan dan nama jabatan.
 
-b. Tabel Divisi
+b. Tabel Divisi <br>
    Tabel ini menyediakan jenis-jenis divisi yang tersedia untuk dipilih oleh user.
    Nilai yang ditampung oleh tabel berupa kode divisi dan nama divisi. 
 
-c. Tabel Tunjangan
+c. Tabel Tunjangan <br>
    Tabel ini menyediakan jenis-jenis tunjangan yang tersedia untuk dipilih oleh user.
    Nilai yang ditampung oleh tabel berupa kode tunjangan, nama tunjangan, dan nilai tunjangan.
 
-d. Tabel Pengangkatan
+d. Tabel Pengangkatan <br>
    Tabel ini menyediakan data pengangkatan seseorang menjadi pegawai tetap. Ketika diangkat, 
    maka dia mendapatkan penempatan pada sebuah divisi dan diangkat berdasarkan sebuah SK
    (Surat Keputusan).
